@@ -4,5 +4,5 @@
 
 ⚡️ Some of my favourite technologies these days are [GraphQL](https://graphql.org/), [Serverless](https://www.serverless.com/), [Docker](https://www.docker.com/) and [Terraform](https://www.terraform.io/), but this shuffles around a lot.
 
-[jo.shw.al](https://jo.shw.al)
+🎯 [jo.shw.al](https://jo.shw.al)
 
